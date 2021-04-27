@@ -2,7 +2,7 @@
 Code repository for CIND820 COVID-19 Analytics Project
 
 Theme:
-Predictive analytics and data mining
+Predictive analytics and forecasting
 
 Dataset: 
 https://github.com/owid/covid-19-data/blob/master/public/data/README.md

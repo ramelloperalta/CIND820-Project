@@ -1,4 +1,4 @@
-# CIND820 - Capstone Project: Analysing and Forecasting the COVID19 Pandemic
+# CIND820 - Capstone Project: COVID19 Visuals, Analysis and Forecasting of the Pandemic
 Code repository 
 
 Theme:
